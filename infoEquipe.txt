@@ -1,0 +1,14 @@
+(PO)
+Product Owner: Fulano de Tal
+Equipe: A
+(SM)
+Scrum Mascter: Ciclana\ de Tal
+
+	Desenvolvedor 1: (Devs) Beltrano de Tal
+	Habilidades:
+	Experiência: 
+
+	Desenvolvedor 2: (Devs) 
+	Habilidades:
+	Experiência: 
+
