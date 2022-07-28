@@ -1,6 +1,7 @@
 Olá, Mundão!
 Eu sou o Pablo Nunes Vargas.
+Bem-vindo ao projeto Palomakoba!
 Vamos aprender os fundamentos do git?
 Claro!
 Qual é seu nome aluno?
-Fulano de Tal
+Ciclano de Tal
