@@ -7,3 +7,5 @@ Qual é seu nome aluno?
 Ciclano de Tal
 De qual instituição?
 Unir
+Qual sua idade?
+20
